@@ -42,7 +42,7 @@ body {
    LOGO STYLES
    ======================= */
 .logo {
-    height: 5em; /* Logo height is 15% of viewport height */
+    height: 15vh; /* Logo height is 15% of viewport height */
     margin-top: -3em; /* Moves the logo slightly upward */
 }
 
